@@ -1,1 +1,2 @@
 # chatbox
+A more sophisticated version of the chatbot created in class. I followed a tutorial to do it, but I feel as if this project was a nice way to introduce myself to more intricate concepts. I also made sure to use interpolation in the form of f strings. The chatbot makes use of following modules: pytorch, json, nltk, numpy, and random. The chatbox is supposed to serve as a generic business chatbot where users can ask basic questions; for example, what credit cards the business accepts. It is a bit buggy but it's something I will be willing to revisit sometime soon. 
